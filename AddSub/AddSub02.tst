@@ -1,7 +1,7 @@
 // Load the AddSub.asm program
 load AddSub.asm,
-output-file AddSub01.out,
-compare-to AddSub01.cmp,
+output-file AddSub02.out,
+compare-to AddSub02.cmp,
 output-list RAM[0]%D2.6.2 RAM[1]%D2.6.2 RAM[2]%D2.6.2 RAM[3]%D2.6.2;
 
 // Set initial values for a, b, c (a + b - c)
