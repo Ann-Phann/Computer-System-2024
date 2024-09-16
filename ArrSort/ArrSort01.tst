@@ -14,7 +14,7 @@ set RAM[2]  4,  // Set R2
 set RAM[20] 3,  // Set Arr[0]
 set RAM[21] 8,  // Set Arr[1]
 set RAM[22] 3,  // Set Arr[2]
-set RAM[23] 1;  // Set Arr[3]
+set RAM[23] 2;  // Set Arr[3]
 repeat 600 {
   ticktock;    // Run for 600 clock cycles
 }

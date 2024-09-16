@@ -7,7 +7,7 @@ set PC 0,
 set RAM[0]  0,  // Set R0
 set RAM[1]  20, // Set R1
 set RAM[2]  4,  // Set R2
-set RAM[20] -6,  // Set Arr[0]
+set RAM[20] -5,  // Set Arr[0]
 set RAM[21] -2,  // Set Arr[1]
 set RAM[22] -4,  // Set Arr[2]
 set RAM[23] -15;  // Set Arr[3]
