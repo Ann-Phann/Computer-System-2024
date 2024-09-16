@@ -3,7 +3,7 @@
 
 // Put your code here.
 
-// Conveert R2 to the last element
+// Convert R2 to the last element
 @R1 
 D=M-1 
 @R2 
